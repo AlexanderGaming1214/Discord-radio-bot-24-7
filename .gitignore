@@ -1,0 +1,7 @@
+.env
+/node_modules
+.tool-versions
+package-lock.json
+index.js
+yarn-error.log
+yarn.lock
