@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ballerini-Server/Codefi.git"
+    "url": "https://github.com/AlexanderGaming1214/Discord-radio-bot-24-7"
   },
   "keywords": [
     "discord-bot",
@@ -22,9 +22,9 @@
   "author": "https://github.com/tauzxd/",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/Ballerini-Server/Codefi/issues"
+    "url": "https://github.com/AlexanderGaming1214/Discord-radio-bot-24-7"
   },
-  "homepage": "https://github.com/Ballerini-Server/Codefi#readme",
+  "homepage": "https://github.com/AlexanderGaming1214/Discord-radio-bot-24-7",
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
     "discord-buttons": "^4.0.0-deprecated",
